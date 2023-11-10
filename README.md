@@ -23,7 +23,7 @@ Hello! I'm Arpit Dwivedi, currently thriving as a **Product Engineer** at Kline 
 - Azure Certification AZ 204, AZ 900
 - Data Science & CSS
 
-Apart from my professional endeavors, I have a passion for writing. Feel free to explore my thoughts and insights on various topics at my blog: [Arpit's Blog](https://blog.arpitdwivedi.in/).
+Apart from my professional endeavors, I have a passion for writing. Feel free to explore my thoughts and insights on various topics at my blog: [Arpit's NeuralStack Chronicles](https://blog.arpitdwivedi.in/).
 
 Always looking to innovate and collaborate, I am open to engaging in conversations about technology, web development, and data science. Reach out to me for any collaborations, queries, or just a tech chat!
 
